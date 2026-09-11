@@ -125,8 +125,8 @@ Contact the published support channel with concerns. There is no mandatory arbit
 ## 18. Contact and publication details
 
 **Developer:** Sense Inc.
-**Support, privacy, and legal email:** legal@sense.inc.
+**Support, privacy, and legal email:** [legal@sense.inc](mailto:legal@sense.inc).
 **Business mailing address:** 3857 Birch St #198, Newport Beach, CA 92660.
-**Support telephone:** +1-833-GETSENS.
+**Support telephone:** [+1-833-GETSENS](tel:+18334387367).
 **Publication/effective dates:** 09/11/26.
-**Canonical source:** https://github.com/sense-gh/eula.
+**Canonical source:** [sense-gh/eula](https://github.com/sense-gh/eula).
